@@ -11,9 +11,14 @@ def on_submit(url, proxies, output_file_path, checked, working, failed, max_thre
     global status
     proxies_list = None
     
+    url_check.checked = 0
+    url_check.failed = 0
+    url_check.working = 0
+    
     # Check if proxies are able to be split 
     try:
         proxies_list = proxies.rstrip('\n ').split('\n')
+        proxies_list = remove_duplicates(proxies_list)
     except:
         # Check if exception is caused by proxies being empty
         if(len(proxies) <= 0):
@@ -21,7 +26,7 @@ def on_submit(url, proxies, output_file_path, checked, working, failed, max_thre
         
         # Check if exception was caused by something else
         else:
-            popup_message('Invalid proxy list! You must separate the proxies with a new line!', '!', ['300', '50'], False)
+            popup_message('There is something wrong with your proxy list!', '!', ['300', '50'], False)
 
     # Make sure there are proxies
     if(proxies_list != None):
@@ -62,10 +67,13 @@ def iterate_proxies(url, proxies, max_threads, status_text, checked_text_var, wo
             break
     while(threading.active_count() > 2):
         pass
-    status = 'Finished'
-    status_text.set(f'Status: {status}')
-    working_proxies = remove_duplicates(working_proxies)
-    save_to_file(output_file, working_proxies)
+    if status == 'Cancelled':
+        status = 'Finished'
+        status_text.set(f'Status: {status}')
+    else:
+        status = 'Finished'
+        status_text.set(f'Status: {status}')
+        save_to_file(output_file, working_proxies)
 
 
 def handle_exit(window):
@@ -76,5 +84,6 @@ def handle_exit(window):
 
 def handle_cancel(status_text):
     global status
-    status = 'Cancelled'
-    status_text.set(f'Status: {status}')
+    if status == 'In Progress':
+        status = 'Cancelled'
+        status_text.set(f'Status: {status}')
