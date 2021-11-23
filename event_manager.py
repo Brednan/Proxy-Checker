@@ -11,13 +11,9 @@ def on_submit(url, proxies, output_file_path, checked, working, failed, max_thre
     global status
     proxies_list = None
     
-    url_check.checked = 0
-    url_check.failed = 0
-    url_check.working = 0
-    
     # Check if proxies are able to be split 
     try:
-        proxies_list = proxies.rstrip('\n ').split('\n')
+        proxies_list = proxies.strip('\n ').split('\n')
         proxies_list = remove_duplicates(proxies_list)
     except:
         # Check if exception is caused by proxies being empty
@@ -34,33 +30,40 @@ def on_submit(url, proxies, output_file_path, checked, working, failed, max_thre
         if len(url.strip()) <= 0:
             popup_message('You must submit a url!', '!', ['300','50'], False)
 
-        # Check if proxies have been submitted    
-        elif len(proxies_list) <= 0 or len(proxies_list[0].strip()) <= 0:
+        # Check if proxies have been submitted
+        if len(proxies_list) <= 0 or len(proxies_list[0].strip()) <= 0:
             popup_message('You Must Submit Proxies!', '!', ['300', '50'], False)
 
         # Check if output file has been entered
         elif len(output_file_path.strip()) <= 0:
             popup_message('You must submit an output file!', '!', ['300', '50'], False)
-        
-        # If everything is submited, then proceed
+
+        # If everything is submitted, then proceed
         else:
             #Make sure that the checker isn't already in progress
             if status == 'None' or status == 'Cancelled' or status == 'Finished':
                 status = 'In Progress'
                 status_text.set(f'Status: {status}')
-                threading.Thread(target=iterate_proxies, args=(url, proxies_list, max_threads, status_text, checked, working, failed, output_file_path, timeout)).start()
+                threading.Thread(target=iterate_proxies, args=(url, proxies_list, max_threads, status_text, checked, working, failed, output_file_path, timeout, len(proxies_list))).start()
+                url_check.checked = 0
+                url_check.failed = 0
+                url_check.working = 0
+    
+                checked.set(f'Checked: {url_check.checked}/{len(proxies_list)}')
+                working.set(f'Working: {url_check.working}')
+                failed.set(f'Failed: {url_check.failed}')
             else:
                 popup_message("The checker is already in progress! Click on the 'Cancel' button if you want to start", '!', ['300', '50'], False)
 
 
-def iterate_proxies(url, proxies, max_threads, status_text, checked_text_var, working_text_var, failed_text_var, output_file, timeout):
+def iterate_proxies(url, proxies, max_threads, status_text, checked_text_var, working_text_var, failed_text_var, output_file, timeout, list_len):
     global status
     i = 0
     working_proxies = []
     while(i < len(proxies)):
         active_threads = threading.active_count()
         if(active_threads <= max_threads):
-            t = threading.Thread(target=url_check.check_proxy, args=(url, proxies[i], working_proxies, checked_text_var, working_text_var, failed_text_var, timeout))
+            t = threading.Thread(target=url_check.check_proxy, args=(url, proxies[i], working_proxies, checked_text_var, working_text_var, failed_text_var, timeout, list_len))
             t.start()
             i += 1
         if(status != 'In Progress'):

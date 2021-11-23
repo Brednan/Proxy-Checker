@@ -17,6 +17,7 @@ proxies_checked = tk.StringVar(value='Checked: 0')
 proxies_working = tk.StringVar(value='Working: 0')
 proxies_failed = tk.StringVar(value='Failed: 0')
 
+
 app_title = tk.Label(window, text='PROXY CHECKER', font=('default', 40))
 app_title.place(x=70, y=20)
 
@@ -46,8 +47,8 @@ clear_proxies_button.place(anchor=W, x=390, y=209)
 
 max_threads_label = tk.Label(entries_frame, text='Max Threads:', font=('default', 16))
 max_threads_label.place(x=5, y=292, anchor=W)
-max_threads_entry = tk.Scale(entries_frame, from_=0, to=64, orient=tk.HORIZONTAL, length=242)
-max_threads_entry.set(32)
+max_threads_entry = tk.Scale(entries_frame, from_=0, to=450, orient=tk.HORIZONTAL, length=242)
+max_threads_entry.set(64)
 max_threads_entry.place(anchor=W, x=140, y=284)
 
 
@@ -66,7 +67,7 @@ set_output_button = tk.Button(entries_frame, text='...', font=('default', 14), w
 set_output_button.place(anchor=W, x=390, y=415)
 
 
-start_button = tk.Button(entries_frame, text='Start', font=('default', 20), width=10, command=lambda: event_manager.on_submit(url_entry.get(), proxy_entry.get('0.0', 'end'), output_entry.get(), proxies_checked, proxies_working, proxies_failed, max_threads_entry.get(), status_text_var, timeout_entry.get()))
+start_button = tk.Button(entries_frame, text='Start', font=('default', 20), width=10, command=lambda: event_manager.on_submit(url=url_entry.get(), proxies=proxy_entry.get('0.0', 'end'), output_file_path=output_entry.get(), checked=proxies_checked, working=proxies_working, failed=proxies_failed, max_threads=max_threads_entry.get(), status_text=status_text_var, timeout=timeout_entry.get()))
 start_button.place(anchor=CENTER, x=250, y=490)
 
 
@@ -77,17 +78,22 @@ status_frame.place(x=300,y=700, anchor=CENTER)
 status_display = tk.Label(status_frame, textvariable=status_text_var, font=('default', 15))
 status_display.place(x=10, y=10)
 
+
 checked = tk.Label(status_frame, textvariable=proxies_checked, font=('default', 15))
 checked.place(x=10, y=50)
+
 
 working = tk.Label(status_frame, textvariable=proxies_working, font=('default', 15))
 working.place(x=360, y=10)
 
+
 failed = tk.Label(status_frame, textvariable=proxies_failed, font=('default', 15))
 failed.place(x=360, y=50)
 
+
 cancel = tk.Button(status_frame, text='Cancel', font=('default', 17), width=7, height=1, command=lambda: event_manager.handle_cancel(status_text_var))
 cancel.place(x=243, y=50, anchor=CENTER)
+
 
 window.protocol('WM_DELETE_WINDOW', lambda: event_manager.handle_exit(window))
 window.mainloop()

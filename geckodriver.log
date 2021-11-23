@@ -1,0 +1,1983 @@
+1637376315539	geckodriver	INFO	Listening on 127.0.0.1:50131
+1637376318113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49932" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileFBMlyt"
+1637376339269	Marionette	INFO	Marionette enabled
+Exiting due to channel error.
+or fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Regioconsole.error: console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brend1637376510747	Marionette	INFO	Stopped listening on port 50563
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+37376479982	Marionette	INFO	Listening on port 50562
+1637376534484	Marionette	INFO	Stopped listening on port 50714
+console.warn: TopSitesFeed: Failed to fetch data from Co1637376535017	Marionette	INFO	Stopped listening on port 50704
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1637376530124	Marionette	INFO	Stopped listening on port 50744
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+evTools listening on ws://localhost:49977/devtools/browser/60600e31-c632-4ecb-88f5-153c5873bc88
+1637376481436	Marionette	INFO	Listening on port 50693
+1637376527686	Marionette	INFO	Stopped listening on port 50701
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ess_util_win.cc:167
+#!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Channel] Error: (msgtype=0x39014C,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390148,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390148,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390148,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390148,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390148,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390148,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+Exiting due to channel error.
+1637377724367	geckodriver	INFO	Listening on 127.0.0.1:54745
+1637377726780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54768" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileoPUjDH"
+*** You are running in headless mode.
+1637377727972	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileoPUjDH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54772/devtools/browser/0379e817-97ea-4604-8830-3b4dcac6df40
+1637377729781	Marionette	INFO	Listening on port 57323
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+iting due to channel error.
+g.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+e 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+o addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+ng state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+1637377712131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56594" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile87zZnY"
+*** You are running in headless mode.
+1637377712861	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: Searcconsole.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+DevTools listening on ws://localhost:56594/devtools/browser/747c501b-0ea9-4378-8df2-508a253d8499
+1637377714817	Marionette	INFO	Listening on port 56790
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+cc1-42a1-844b-ebdfab8690c1
+1637377713826	Marionette	INFO	Listening on port 56800
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+debugging-port" "57703" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile8RUqY1"
+*** You are running in headless mode.
+1637378039699	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile8RUqY1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57703/devtools/browser/75260eb9-d35b-4cf4-b739-f80bc374840c
+1637378041256	Marionette	INFO	Listening on port 57727
+1637378041568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeErro163737console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No aJavaJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+ebugging-port" "57866" "-no-remote" "-profile" "C:\\Users\1637378047323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57885" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile2C5kMy"
+*** You are running in headless mode.
+1637378047563	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile2C5kMy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57885/devtools/browser/c0c5b3e2-d1c0-4722-90a0-a765533263af
+1637378048559	Marionette	INFO	Listening on port 57922
+1637378048977	RemoteAgent	WARN	TLS cJavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is null
+JavaScript er1637378557681	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+topped listening on port 57889
+te" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileJb84ZI"
+*** You are running in headless mode.
+1637378052149	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileJb84ZI\\search.json.mozlz4", (void 0)))
+1637378053352	geckodriver	INFO	Listening on 127.0.0.1:58002
+1637378055795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58005" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilepLEkJo"
+*** You are running in headless mode.
+1637378056031	Marionette	INFO	Mar1637378582246	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilepLEkJo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58005/devtools/browser/42037938-4f16-4b23-9f5e-0577f323b0ec
+1637378057232	Marionette	INFO	Listening on port 58026
+1637378057454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637378057456	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"159.203.61.169:3128","sslProxy":"159.203.61.169:3128"}
+1637378566229	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+onette" "-headless" "--remote-debugging-port" "59166" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileqqdFB3"
+*** You are running in headless mode.
+1637378287350	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilenUzqml\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:59220/devtools/browser/bceeb0c0-acc1-42e0-831b-2a1d90d10ecd
+1637378302417	Marionette	INFO	Listening on port 59377
+1637378303367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeEr1616371637378354831	Marionette	INFO	Stopped listening on port 59374
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed1637378364548	Marionette	INFO	Stopped listening on port 59386
+craft/clientlibs/footerclientLib.34d520a8bfe66439f84d06f7d556356a.js, line 1: ReferenceError: WcpConsent is not defined
+1637378457075	Marionette	INFO	Stopped listening on port 59435
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Channel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+arent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JaJavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+s/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting dowJavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+Error: IOUtils: Shutting down and refusing additional I/O tasks
+'ve started shutting down."
+
+###!!! [PJavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+nner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60734" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilefMlyCp"
+1637378312038	mozrunner::runner	INFO	Ru1637378312787	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileWWHErX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60726/devtools/browser/889e6c89-ad49-464b-a4ac-a0c276bd9eab
+1637378320232	Marionette	INFO	Listening on port 60840
+1637378320477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637378320481	DevTools listening on ws://localhost:60758/devtools/browser/4c95a1f5-2e48-40121637378356467	Marionette	INFO	Stopped listening on por1637378619263	Marionette	INFO	Stopped listening on port 60844
+
+28
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ork request failed
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to s16JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/footerclientLib.34d520a8bfe66439f84d06f7d556356a.js, line 1: ReferenceError: WcpConsent is not defined
+1637378521931	Marionette	INFO	Stopped listening on port 60868
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+nner::runner	INFO	Running command: "C:\\P1637378327562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61424" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local[GFX1-]: RenderCompositorSWGL f*** You are running in headle[GFX1-]: R1637378328916	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileUn6Rbh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61424/devtools/browser/1fd56c7f-1a9e-4d6c-b02f-19a9cb79fbff
+1637378331393	Marionette	INFO	Listening on port 61456
+1637378331771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637378331774	RemoteAgent	INFO	P1637378629409	Marionette	INFO	Stopped listening on port 61440
+372817	Marionette	INFO	Stopped listening on port 61446
+avaScript warning: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/scripts/at-minecraft.js, line 190: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is null
+1637378404212	Marionette	INFO	Stopped listening on port 61456
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [ChildJavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/footerclientLib.34d520a8bfe66439f84d06f7d556356a.js, line 1: ReferenceError: WcpConsent is not defined
+1637378513763	Marionette	INFO	Stopped listening on port 51869
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+vaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/headerclientLib.b610f7e93e7ab6f0d011d24f7ef652d1.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/footerclientLib.34d520a8bfe66439f84d06f7d556356a.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/clientlib-site.a76c0015587f30c61270d93e40ab1a3c.js, line 64: ReferenceError: $ is not defined
+JavaScript error: https://www.minecraft.net/en-us line 2 > injectedScript, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://www.minecraft.net/en-us line 2 > injectedScript, line 2: TypeError: n is not a function
+JavaScript error: https://www.minecraft.net/en-us line 2 > injectedScript, line 2: TypeError: n is not a function
+JavaScript error: https://www.minecraft.net/en-us line 2 > injectedScript, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://www.minecraft.net/en-us line 2 > injectedScript, line 2: TypeError: n is not a function
+JavaScript error: https://www.minecraft.net/en-us line 2 > injectedScript, line 2: TypeError: i is not a function
+JavaScript error: https://www.minecraft.net/en-us line 2 > injectedScript, line 2: TypeError: i is not a function
+JavaScript error: https://www.minecraft.net/en-us 1637378529678	Marionette	INFO	Stopped listening on port 52083
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Channel closing: too late to send/recv, messages will be lost
+
+E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9E0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1637378354234	geckodriver	INFO	Listening on 127.0.0.1:52209
+1637378356429	mozrunner::runner	INFO	Running command: "C:\\P1637378356936	mozrunner::runner	INFO	Running command: "C:\\P1637378358111	mozrunner::runner	INFO	Running command: "C:\\P1637378358949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52265" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\ru1637378359982	mozrunner::runner	INFO	Running comma[GFX1-]: R1637378360691	mozrunner::runner	INFO	Running comma[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\*** You are running in headlD[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BrenJavaScript warning: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/scripts/at-minecraft.js, line 190: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/headerclientLib.b610f7e93e7ab6f0d011d24f7ef652d1.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/footerclientLib.34d520a8bfe66439f84d06f7d556356a.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.minecraft.net/en-us line 2 > injectedScript, line 2: TypeError: window.wdgtagging is undefined
+1637378556048	Marionette	INFO	Stopped listening on port 52268
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotDevTools listening on ws://locaJa1637378413627	Marionette	INFO	Stopped listening on port 52570
+console.error: services.settings: 
+  main/query-strippin1637378414277	Marionette	INFO	Stopped listening on port 52640
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+
+###!!! [Parent][RunMessage] Error: Channe16371637378417024	Marionette	INFO	Stopped listening on po163737841637378510387	Marionette	INFO	Stopped listening on port 52569
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+enderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is null
+1637378496862	Marionette	INFO	Stopped listening on port 52732
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1a-81a9-aeb2ca470239
+1637378384415	Marionette	INFO	Listening on port 531JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is nul1611637378438217	Marionette	INFO	Stopped listening on port 52972
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late1637378507475	Marionette	INFO	Stopped listening on port 53029
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t
+console.wa
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileI2xwfv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53411/devtools/browser/4134b9d6-6a9d-4f75-9ee2-693b4dc2d6cb
+1637378390676	Marionett1637378431495	Marionette	INFO	Stopped listening on port 53422
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ initialised: {"proxyType":"manual","httpProxy":"45.79.188.77:80","sslProxy":"45.79.188.77:80"}
+1637378405139	Marionette	INFO	Stopped listening on port 53536
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+:"194.233.69.41:443"}
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/footerclientLib.34d520a8bfe66439f84d06f7d556356a.js, line 1: ReferenceError: WcpConsent is not defined
+JavaScript error: https://www.minecraft.net/en-us line 2 > injectedScript, line 2: TypeError: window.wdgtagging is undefined
+JavaScript error: https://www.minecraft.net/en-us line 2 > injectedScript, line 2: TypeError: window.wdgtagging is undefined
+1637378523128	Marionette	INFO	Stopped listening on port 53568
+1637379029818	geckodriver	INFO	Listening on 127.0.0.1:55263
+1637379032204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55267" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile6QtjAi"
+1637379032490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile6QtjAi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55267/devtools/browser/db91dcc2-1aca-4120-baba-f7ae49ddfd15
+1637379034157	Marionette	INFO	Listening on port 54525
+1637379034368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637379034371	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"140.227.211.47:8080","sslProxy":"140.227.211.47:801637371637379038064	Marionette	INFO	Stopped listening on port 54525
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rofile9eOMyO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55353/devtools/browser/7a6b70db-090c-442f-b59e-774563fb8de5
+1637378925102	Marionette	INFO	Listening on port 55360
+1637378925583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637378925585	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"34.145.126.174:80","sslProxy":"34.145.126.174:80"}
+1637379030191	Marionette	INFO	Stopped listening on port 55360
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55404" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile5PChvd"
+1637378928909	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile5PChvd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55404/devtools/browser/c949ae63-820f-4742-9cf3-681f6693abc7
+1637378930254	Marionette	INFO	Listening on port 55414
+1637378930334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637378930337	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"195.189.35.8:9080","sslProxy":"195.189.35.8:9080"}
+1637379030880	Marionette	INFO	Stopped listening on port 55414
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_mozprofileFpCSnE"
+1637378940063	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileFpCSnE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55462/devtools/browser/b060e96f-8121-44ee-b0ff-09ae99423fd7
+1637378941439	Marionette	INFO	Listening on port 55470
+1637378941462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637378941464	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"159.203.61.169:3128","sslProxy":"159.203.61.169:3128"}
+1637379031943	Marionette	INFO	Stopped listening on port 55470
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_mozprofileUnh60e"
+1637378944924	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileUnh60e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55502/devtools/browser/aca8450f-71e5-42f6-8426-1a4ad9b5e4ed
+1637378946256	Marionette	INFO	Listening on port 55510
+1637378946358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637378946360	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"69.58.104.245:80","sslProxy":"69.58.104.245:80"}
+1637379035489	Marionette	INFO	Stopped listening on port 55510
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 79396, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+xists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile0sBbFG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54248/devtools/browser/e13a1b6e-415c-4429-8bdf-e13468deabfb
+1637378989660	Marionette	INFO	Listening on port 54255
+1637378990043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637378990045	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"103.124.2.229:3128","sslProxy":"103.124.2.229:3128"}
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is null
+1637379001193	Marionette	INFO	Stopped listening on port 54255
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+ts, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilecaEA9G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54304/devtools/browser/32fbc9b4-8943-4042-a4e6-828b3fca1f19
+1637378996017	Marionette	INFO	Listening on port 54315
+1637378996426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637378996428	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"8.218.184.23:59394","sslProxy":"8.218.184.23:59394"}
+1637379036256	Marionette	INFO	Stopped listening on port 54315
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 23912, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+f-72e4ecbab184
+1637379005728	Marionette	INFO	Listening on port 54391
+1637379006111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637379006113	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"185.61.152.137:8080","sslProxy":"185.61.152.137:8080"}
+1637379026213	Marionette	INFO	Stopped listening on port 54391
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ew NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile9eSqut\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54436/devtools/browser/0883884d-c68e-4d04-97be-25984de9d9b6
+1637379010958	Marionette	INFO	Listening on port 54446
+1637379010975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637379010978	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"203.193.131.74:3128","sslProxy":"203.193.131.74:3128"}
+1637379025815	Marionette	INFO	Stopped listening on port 54446
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1637382180991	geckodriver	INFO	Listening on 127.0.0.1:49876
+1637382183384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49892" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileagvV7c"
+*** You are running in headless mode.
+1637382183669	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileagvV7c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49892/devtools/browser/f265e2f0-dcdb-4d8f-b601-2a22f005e56b
+1637382184927	Marionette	INFO	Listening on port 51424
+1637382185045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: l161637382245220	Marionette	INFO	Stopped listening on port 51424
+[Parent 31940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:1671637382333165	Marionette	INFO	Stopped listening on port 50001
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nt is not defined
+1637382413500	Marionette	INFO	Stopped listening on port 50017
+ uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+itialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+Java
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+nnel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting doJavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+nner::runner	INFO	Running command: "C:\\P1637382111820	mozrunner::runner	INFO	Running command: "C:\\P1637382112386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50641" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilelKwwir\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50641/devtools/browser/6dd4222d-07f1-4c5d-82d7-c4de892f8218
+1637382115643	Marionette	INFO	Listening on port 50705
+1637382115857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637382115860	RemoteAgent	1637382118823	Marionette	INFO	Stopped listening on port 50674
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ on port 50705
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ate to send/recv, messages will be lost
+
+22
+1637382118012	mozrunner::runner	INFO	Running command: "C:\\P1637382118072	mozrunner::runner	INFO	Running command: "C:\\P1637382118415	mozrunner::runner	INFO	Running command: "C:\\P1637382118738	mozrunner::runner	INFO	Running command: "C:\\P1637382119296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" [GFX1-]: RenderCompositorSWGL f1637382120857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50913" "-no-remote" "-profile" "C:\\Users\\Brendan\[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn1637382121872	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileFDnNQH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50913/devtools/browser/d0943287-bc81637382152098	Marionette	INFO	Stopped listening on port 509011637382164614	Marionette	INFO	Stopped listening on port 50916
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ {"proxyType":"m1637382125611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51108" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilexAmAF9"
+*** You are running in headless mode.
+1637382126055	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\1637382127170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\MozilDevTools listening on ws://localhost:51108/devtools/browser/819e8542-8280-4c05-8aff-6c393f8ac683
+1637382127781	Marionette	INFO	Listening on port 51169
+1637382127947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637382127951	RemoteAgen[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings f1637382128842	Marionette	INFO	Stopped listening on port 51169
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+0)))
+DevTools listening on ws://localhost:51145/devtools/browser/ffb56ef1-3af2-4507-a5bf-c024bfc3a904
+1637382129259	Marionette	INFO	Listening on port 51222
+1637382129521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637382129524	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"194.233.81.171:80","sslProxy":"194.233.81.171:80"}
+1637382130091	Marionette	INFO	Stopped listening on port 51222
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637390517643	geckodriver	INFO	Listening on 127.0.0.1:65122
+1637390519948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "65148" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilerhwrEO"
+*** You are running in headless mode.
+1637390530995	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Regioconsole.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:65026/devtools/browser/540d02de-bd42-4303-9964-f4901771a3d4
+1637390553967	Marionette	INFO	Listening on port 65400
+1JavaJavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is null
+JavaScript error: https://www.minecraft.net/etc.cl1637390854222	Marionette	INFO	Stopped listening on port 65423
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+97
+14395	Marionette	INFO	Stopped listening on port 65452
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre1637390710904	Marionette	INFO	Stopped listening on port 65405
+es/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ssage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel c1637390851332	Marionette	INFO	Stopped listening on port 65417
+! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+ed\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ebay@JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uJavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+ript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught excepticonsole.log: "R
+###!!! JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+n we've started shutting down."
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+, messages will be lost
+
+ Error: Channel closing: too late to send/rec
+###!!! [Parent][RunMessage] Error: Channel closing: too lateJavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+ill be lost
+
+1637390573901	geckodriver	INFO	Listening on 127.0.0.1:52305
+1637390576099	mozrunner::runner	INFO	Running command: "C:\\P1637390576520	mozrunner::runner	INFO	Running command: "C:\\P1637390576999	mozrunner::runner	INFO	Running command: "C:\\P1637390577339	mozrunner::runner	INFO	Running command: "C:\\P1637390577460	mozrunner::runner	INFO	Running command: 1637391637390577813	mozrunner::runner	INFO	Running[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file aconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No sDevTools listening oconsole.warn: SearchSettings: "get: No sDevTools listening oconsole.warn: SearchSettings: "get: No settings[GFX1-]: RenderCompositorSWGL failed mapping default DevTool[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings[GFX1-]: Rendconsole.error: Region.jsm: "Error fetching region" (new Erroconsole.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+conconsole.w1637390629459	Marionette	INFO	Stopped listening on port 52420
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+2143b63e9.js,JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63WARNING: At least one completion condition is taking too long to1637390755286	Marionette	INFO	Stopped listening on port 52536
+dows","state":{"total":1,"current":0},"filename":"reJavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is null
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/footerclientLib.34d520a8bfe66439f84d06f7d556356a.js, line 1: ReferenceError: WcpConsent is not1637390702151637390712692	Marionette	INFO	Stopped listening on port 52659
+rent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+d/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBWARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=28c1096c000","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3510,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:983","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1695"]}] Barrier: profile-before-change
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ole.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: , line 0: uncaught exception: 2147500036
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+an't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+
+###!!! [Pa1637390615876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54440" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileck2QrR"
+*** You are running in headless mode.
+1637390618316	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1637390620895	geckodriver	INFO	Listening on 127.0.0.1:54637
+1637390623145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54639" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\L1637390623891	mozrunner::runner	INFO	Running command: "C:\\P1637390624506	mozrunner::runner	INFO	Running command: "C:\\Progr[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\User1637390665161	Marionette	INFO	Stopped listening on port 54503
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+19f-4aa0-8602-158fe6711207
+1637390640537	Marionette	INFO	Listening on port 54871
+console.error:1637391637390671755	Marionette	INFO	Stopped listening on port 54796
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+
+###!!! [Parent][RunMessag1637390696346	Marionette	INFO	Stopped listening on port 54871
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+craft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathnameJavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is null
+JavaScript error: https://www.minecraft.net/etcJavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: T1637390852744	Marionette	INFO	Stopped listening on port 54940
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+6f7d556356a.js, line 1: ReferenceError: WcpConsent is not defined
+1637390919080	Marionette	INFO	Stopped listening on port 54958
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+gtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child1637390767944	Marionette	INFO	Stopped listening on port 55134
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+sages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://greconsole.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_E
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+Java
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Script error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jconsole.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+wn.jsm, line 575: uncaught exception: 2147500036
+Jconsole.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+n't import when we've sta
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+teSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+eSettingsClient.jsm:_importJSONDump:811","resource://services-settings/RemoteSettingsClient.jsm:get/this._importingPromise<:371","resource://services-settings/RemoteSettingsClient.jsm:get:380"]}] Barrier: profile-before-change
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 445))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637439479134	geckodriver	INFO	Listening on 127.0.0.1:56756
+1637439481603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56760" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileWkmwmw"
+*** You are running in headless mode.
+1637439482347	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileWkmwmw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56760/devtools/browser/85de8dda-3253-4a3d-8f7a-19b4cc189b36
+1637439484002	Marionette	INFO	Listening on port 56798
+1637439484375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: loc1637439494423	Marionette	INFO	Stopped listening on port 56788
+O	Stopped listening on port 56786
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ening on 127.0.0.1:56994
+1637439488282	mozrunner::runner	INFO	Running command: "C:\\P1637439488383	mozrunner::runner	INFO	Running command: "C:\\P1637439490555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57026" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileAhzrjy"
+*** You are running in headless mode.
+1637439490794	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileAhzrjy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57026/devtools/browser/678aba89-0d02-47ba-b2e0-71f12ff5d220
+1637439491652	Marionette	INFO	Listening on port 57163
+1637439491708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637439491710	RemoteAgen161637439500470	Marionette	INFO	Stopped listening on port 57030
+
+###!!! [Parent][RunMessage] Error: Channel closing: too l1637439501786	Marionette	INFO	Stopped listening on port 57163
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+lost
+
+on port 57042
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent]1637439501369	mozrunner::runner	INFO	Running command: "C:\\Prog1637439502636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57279" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile9QKkNR"
+*** You are running in headless mode.
+1637439502865	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open t1637439504004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57296" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileQd8ICO"
+*** 1637439505432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57347" "-no-remote" 1637439513171	Marionette	INFO	Stopped listening on port 57293
+1637439513958	Marionette	INFO	Stopped listening on port 57328
+691	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile4LPJ3c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57347/devtools/browser/b96277c1-49eb-40dd-a63b-4320ba2f60be
+1637439506575	Marionette	I1637431637439515793	Marionette	INFO	Stopped listening on port 57379
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+d: {"proxyType":"manual","httpProxy":"64.17.30.238:63141","sslProxy":"64.17.30.238:63141"}
+1637439517182	Marionette	INFO	Stopped listening on port 57474
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "-headless" "--remote-debugging-port" "57529" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileZehfvn"
+*** You are running in headless mode.
+1637439511678	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileZehfvn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57529/devtools/browser/ec762faf-5a26-4dbc-82b1-d995df863da9
+1637439512518	Marionette	INFO	Listening on port 57534
+1637439512577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637439512579	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"206.253.164.122:80","sslProxy":"206.253.164.122:80"}
+1637439513256	Marionette	INFO	Stopped listening on port 57534
+1637439514293	geckodriver	INFO	Listening on 127.0.0.1:57565
+1637439516655	mozrunner::runner	INFO	Running command: "C:\\P1637439517302	mozrunner::runner	INFO	Running command: "C:\\P1637439518674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57581" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\ru1637439519009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--mar[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Tem[GFX1-]: RenderCompositorSWGL failed mapping default framebDevTools listening on ws://localhost:57581/devtools/browser/8459178c-f375-44d8-a2d2-7b2960b1ccfe
+1637439519921	Marionette	INFO	Listening on port 57701
+1637439520323	RemoteAgent	WARN	TLS certificate errors will be ignored for this seDevTools listening on ws://localhost:57587/devtools/browser/40980970-9627-42c0-9aef-48d0b6a1637439522775	Marionette	INFO	Stopped listening on port 57616
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nn1637439522650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57743" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileJFkiIM"
+*** You are running in headless mode.
+1637439523052	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the1637439524448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57821" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileDuwuzm"
+*** You are running in headless mode.
+1637439524701	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (n1637439528982	Marionette	INFO	Stopped listening on port 57839
+7439525658	mozrunner::runner	INFO	Running command: "C:\\P1637439526013	mozrunner::runner	INFO	Running command: "C:\\P1637439526264	mozrunner::runner	INFO	Running command: "C:\\P1637439527786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57949" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilezc3Dts"
+*** You are running in headless mode.
+1637439528047	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Te1637439529436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58024" "-no-remote" "-profile" "C:\\Users\\Brendan\\App1637439529456	RemoteAgent	WARN	TLS certifi*** You are running in headless mode.
+1637439529682	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping 1637439538125	Marionette	INFO	Stopped listening on port 57982
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+37439532100	mozrunner::runner	INFO	Running command: "C:\\P1637439532376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Fir1637439533162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58162" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilekHO8V1"
+*** [GFX1-]: RenderCompositorSWGL faile1637439533537	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" 1637439534934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58210" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileHiThHp"
+*** You are running in headless mode.
+16371637439535347	RemoteAgent	WARN	TLS certificate[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get:1637439536859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozill1637439545476	Marionette	INFO	Stopped listening on port 58242
+[Parent 17772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+er::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58372" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilev4aSzq"
+*** You are running in headless mode.
+1637439539292	Marionette	INFO	Marionett1637439546694	Marionette	INFO	Stopped listening on port 58329
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  3
+w NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilev4aSzq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58372/devtools/browser/926781ea-6af4-459f-a66c-65b86cd0be98
+1637439540235	Marionette	INFO	Listening on port 58439
+1637439540338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637439540340	RemoteA1637439549517	Marionette	INFO	Stopped listening on port 58412
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to se1637439550520	Marionette	INFO	Stopped listening on port 58439
+1637439554100	geckodriver	INFO	Listening on 127.0.0.1:58501
+1637439556533	mozrunner::runner	INFO	Running command: "C:\\P1637439556650	mozrunner::runner	INFO	Running command: "C:\\P1637439558082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58659" "-no-remo1637439560282	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileoZRsFS\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://local1637439582207	Marionette	INFO	Stopped listening on port 58908
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1203: TypeError: c1637439586217	Marionette	INFO	Stopped listening on port 58801637439588113	Marionette	INFO	Stopped listening on port 581637439593885	Marionette	INFO	Stopped listening on port 58936
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+isteners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+6:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+ers@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+, line 575: uncaught exception: 2147500036
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@res
+###!!! [Parent][RunMessage] 
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+urce://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: 
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+
+###!!! [Pare
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+on: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import
+###!!! [Parent][RunMessage] Error: 
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+vice: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://greconsole.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 445))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637439591898	geckodriver	INFO	Listening on 127.0.0.1:61045
+1637439594322	mozrunner::runner	INFO	Running command: "C:\\P1637439594680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "1637439596203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marione1637439598338	Marionette	INFO	Marionette enabled
+[GFX1-]: R1637439605344	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file aconsole.warn: SearchSettings: "get: No sconsole.error: Region.jsm: "Error fetching region" (new Erroconsole.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:61127/devtools/browser/306d4fdc-4e06-46c9-9135-9c020d44d1637439620073	RemoteAgent	WARN	TLS certificate errors will 1637439629741	Marionette	INFO	Stopped listening on port 61431
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/module1637439631417	Marionette	INFO	Stopped listening on port 61361
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1203: TypeError: connection not specified in clone options.
+[Parent 20052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSO1637439632224
+###!!! [Parent][R
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv,
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+send/recv, messages will be lost
+
+186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engi
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+o]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: , line 0: uncaught exception: 2147500036
+2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 21475
+###!!
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+oo late to send/recv, messages will be lost
+
+ddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+xception: 2147500036
+, messages will be lost
+
+Worker error: Error: Can't import when we've started shutting down."
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637439761316	geckodriver	INFO	Listening on 127.0.0.1:49571
+1637439763695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49595" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileQNGpdB"
+*** You are running in headless mode.
+1637439764561	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileQNGpdB\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTooJavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: loc1637439780341	Marionette	INFO	Stopp1637439781549	Marionette	INFJavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Brendan\AppData\Local\Temp\rust_mozprofilecvYWaF\protections.sqlite
+
+###!!! [Child][RunMessa
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+messages will be lost
+
+or: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initializconsole.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception...JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+ddonManager.jsm :: installBuiltinAddon :: line 2541\"  dconsole.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: , line 0: uncaught exception: 2147500036
+OT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [ExcJavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: , line 0: uncaught exception: 2147500036
+sm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1637439761048	geckodriver	INFO	Listening on 127.0.0.1:52266
+1637439763403	mozrunner::runner	INFO	Running command: "C:\\P1637439763639	mozrunner::runner	INFO	Running command: "C:\\P1637439763985	mozrunner::runner	INFO	Running command: "C:\\P1637439764417	mozrunner::runner	INFO	Running command: "C:\\P1637439764912	mozrunner::runner	INFO	Running command: "C:\\P1637439765577	mozrunner::runner	INFO	Running command: "C:\\P1637439766192	mozrunner::runner	INFO	Running[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: R1637439767783	Marionette	INFO	Marionette enabled
+[GFX1-]: R1637439770852	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no d163console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+conconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("CouldDevTools listening on ws://localhost:52375/devtools/browser/console.error: Region.jsm: "Error fetching region" (new ErroDevTools listening on ws://localhost:52436/devtools/browser/6a1c4fd4-bcbb-4442-88cb-4b303add9f93
+1637439794326	Marionette	INFO	Listening on port 52789
+1637439795620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637439795624	RemoteAgent	1637439804376	Marionette	INFO	Stopped listening on port 52820
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInter1637439806513	Marionette	INFO	Stopped listening on port 52715
+
+###!!1637439808131	Marionette	INFO	Stopped listening on port 52780
+:Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+nMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+n not specified in clone options.
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/Async
+###!!! [Parent][RunMessage] Error: Channel closing: too late 
+###!!! [Parent][RunMessage]
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+m, line 1203: TypeError: connection not specified in clone options.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+et data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+donManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2541\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: , line 0: uncaught exception: 2147500036
+will be lost
+
+ught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+Ja
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nsole.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+eSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+ed an illegal value
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680017,name=PNecko::Msg_HTMLDNSPrefetch) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637439903406	geckodriver	INFO	Listening on 127.0.0.1:55181
+1637439905829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55188" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileAskq4s"
+*** You are running in headless mode.
+1637439906575	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileJSFri7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55187/devtools/browser/d415a92b-a131-488f-aef1-1b4d7fea9c87
+1637439908809	Marionette	INFO	Listening on port 55220
+1637439909143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637439909147	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"34.145.126.174:80","sslProxy":"34.145.126.174:80"}1616371637439918904	Marionette	INFO	Stopped listening on port 552
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+[Parent 29264, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55454" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilet9vH6O\\search.json.mozlz4", (void 0)))
+1637439916773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55500" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilecuvytJ"
+*** You are running in headless mode.
+1637439917012	Marionette	INFO	M1637439922965	Marionette	INFO	Stopped listening on port 55465
+[JavaScript error: https://www.minecraft.net/etc.clientlibs/m1637439925622	Marionette	INFO	Stopped listening on port 55480
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late1637439926151	Marionette	INFO	Stopped listening on port 55475
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\rust_mozprofilermz5lw"
+*** You are running in headless mode.
+1637439919170	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilermz5lw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55607/devtools/browser/2ec0584a-5453-4f35-ae61-083cc886bd68
+1637439921637439922514	mozrunner::runner	INFO	Running command: "C:\\P1637439922686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55692" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local1637439930618	Marionette	INFO	Stopped listening on port 55658
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\TeDevTools listening on ws://localhost:55673/devtools/browser/DevTools listening on ws://localhost:55692/devtools/browser/1b1a4522-f872-4f40-8280-257928ac17b8
+1637439924434	Marionette	INFO	Listening on port 55730
+1637439924868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637439924871	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProx1637439934362	Marionette	INFO	Stopped listening on port 551637439934994	Marionette	INFO	Stopped listening on port 55730
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+r: Channel closing: too late to send/recv, messages will be lost
+
+onette" "-headless" "--remote-debugging-port" "55852" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilexWD3iD"
+*** You are running in headle[GFX1-]: R1637439929461	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\TeDevTools listening on ws://localhost:55848/devtools/browser/DevTools listening on ws://localhost:55852/devtools/browser/f66bba1b-d33d-4c9b-886d-92e449df5ffb
+1637439930397	Marionette	INFO	Listening on port 55913
+1637439930810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637439930814	RemoteAg1637439934815	Marionette	INFO	Stopped listening on port 55855
+pPr1637439940439	Marionette	INFO	Stopped listening on port 55889
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  2
+g on 127.0.0.1:55988
+1637439933468	mozrunner::runner	INFO	Running command: "C:\\P1637439934011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55992" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilem6Aq7y"
+*** You are running in headless mode.
+1637439934340	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilem6Aq7y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55992/devtools/browser/86d3d7f8-9b3c-4524-8aec-3aa87898dceb
+1637439935624	Marionette	INFO	Listening on port 56008
+1637439937485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56039" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\1637439937927	mozrunner::runner	INFO	Running command: "C:\\Pro1637439938294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-hea1637439938836	mozrunner::runner	INFO	Running command: "C:\\P1637439939747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56084" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile1ZUE3z"
+*** You are running in headless mode.
+1637439940206	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile1ZUE3z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56084/devtools/browser/336dd46f-fe59-434a-9bca-2c5b609c16e6
+1637439941622	Marionette	INFO	Listening on port 56211
+1637439941913	RemoteAgent	WARN	TLS certificate err1637439941920	Marionette	INFO	Stopped listening on port 56109
+	INFO	Proxy settings initialised: {"proxyType":"manual","http1637439945714	Marionette	INFO	Stopped listening on port 56146
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+37439944225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-h1637439945129	mozrunner::runner	INFO	Running command: "C:\\P1637439945418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56331" "-no-remote" "-profile" "C:\\U*** You are running in headless mode.
+1637439946375	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilepCET69\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56323/devtools/browser/DevTools listening on ws://localhost:51637439947886	Marionette	INFO	Listening on port 56411
+1637439948118	RemoteAgent	WARN	TLS certificate errors will b1637439948118	RemoteAgent	WA1637439948120	RemoteAgent	1637439956550	Marionette	INFO	Stopped listening on port 56362
+O	Proxy settings initialised: {"proxyType":"manual","http1637439948433	Marionette	INFO	Stopped listening on port 56411
+39948379	Marionette	INFO	Stopped listening on port 56433
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late1637439949538	mozrunner::runner	INFO	Running command: "C:\\P1637439949634	mozrunner::runner	INFO	Running command: "C:\\P1637439950645	mozrunner::runner	INFO	Running command: "C:\\P1637439951623	mozrunner::runner	INFO	Running command: "C:\\P1637439952160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56580" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilemJTEfc"
+*** You are running in headle[GFX1-]: R1637439952577	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\TeDevTools listening on ws://localhost:56571/devtools/browser/DevTools listening on ws://localhost:56580/devtools/browser/5c7661cf-dc73-49c0-b1c7-5acaf981f2cf
+1637439953968	Marionette	INFO	Listening on port 56695
+1637439954326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637439954329	RemoteAgent	1637439963357	Marionette	INFO	Stopped listening on port 56620
+[Pa1637439963890	Marionette	INFO	Stopped listening on port 56669
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+losing: too late to send/recv, messages will be lost
+
+-headless" "--remote-debugging-port" "56776" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileQgUvOF"
+*** You are running in headless mode.
+1637439956614	Marionette	INFO	Marionette enabled
+1637439958112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56824" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilefG7xEz"
+*** You are running in headless mode.
+1637439958365	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilefG7xEz\\search.json.mozlz416371637439967515	Marionette	INFO	Stopped listening on por1637439968437	Marionette	INFO	Stopped listening on port 56831
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+6914" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileSeUOKb"
+*** You are running in headless mode.
+1637439960253	Marionette	INFO	Marionette enabl1637439969848	Marionette	INFO	Stopped listening on port 56931
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Error("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileSeUOKb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56914/devtools/browser/fd51d9e8-3d7e-456d-a0e8-db718b853144
+1637439961197	Marionette	INFO	Listening on port 56981
+1637439961685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637439961687	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"47.57.30.255:59394","sslProxy":"47.57.30.255:59394"}
+1637439971847	Marionette	INFO	Stopped listening on port 56981
+7439966440	mozrunner::runner	INFO	Running command: "C:\\P1637439966611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57027" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\ru1637439966691	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\TeDevTools listening on ws://localhost:57024/devtools/browser/DevTools listening on ws://localhost:57027/devtools/browser/641e7892-8be6-4430-8161-b352a34541637439968590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637439968593	RemoteAgent	INFO	P1637439970640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "1637439978721	Marionette	INFO	Stopped listening on port 57042
+39978390	Marionette	INFO	Stopped listening on port 57047
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+command: "C:\\P1637439972638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57132" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile2AGOXs"
+*** You are running in headless mode.
+1637439973173	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile2AGOXs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localh1637439982369	Marionette	INFO	Stopped listening on port 57137
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e errors will be ignored for this session
+1637439974546	RemoteAg1637439976248	Marionette	INFO	Stopped listening on port 57140
+
+###!!JavaScript warning: https://www.minecraft.net/etc.clientlibs/m1637439984675	Marionette	INFO	Stopped listening on port 57214
+[Parent 28776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te	INFO	Stopped listening on port 57168
+39975389	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilecHmiQa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57221/devtools/browser/e18fe0ec-6d04-43fa-8cc3-8eb9215c7dab
+1637439976335	Marionette	INFO	Listening on port 57287
+1637439976790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637439976792	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"109.173.47.147:8000","sslProxy":"109.173.47.147:8000"}
+1637439986832	Marionette	INFO	Stopped listening on port 57287
+7439979154	mozrunner::runner	INFO	Running command: "C:\\P1637439981268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57346" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofiletx8qWr"
+*** You are running in headless mode.
+1637439981518	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofiletx8qWr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57346/devtools/browser/5ad3f97f-5a80-4977-92f7-3e570e48d10b
+1637439982650	Marionette	INFO	Listening on port 57411
+1637439982902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637439982906	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProx1637439990851	Marionette	INFO	Stopped listening on port 1637439992984	Marionette	INFO	Stopped listening on port 57411
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+oteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"43.135.167.16:59394","sslProxy":"43.135.167.16:59394"}
+1637439985656	Marionette	INFO	Stopped listening on port 57416
+
+###!!! [Parent][RunMessage] Error: Channel closing: too1637439986179	mozrunner::runner	INFO	Running command: "C:\\P1637439987333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57500" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilemuqaGq"
+*** You are running in headless mode.
+1637439987682	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Te1637439988838	mozrunner::runner	INFO	Running command: "C:\\PDevTools listening on ws://localhost:57500/devtools/browser/467f72f4-f871-43a3-a9bb-78704af1eae8
+1637439988923	Marionette	INFO	Listening on port 57570
+1637439988976	RemoteAgent	WARN	TLS certificate errors will be ignored for this se1637439989141	Marionette	INFO	Marionett1637439997112	Marionette	INFO	Stopped listening on port 1637439997915	Marionette	INFO	Stopped listening on port 575161637439999064	Marionette	INFO	Stopped listening on port 57570
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+l\\Temp\\rust_mozprofDevTools listening on ws://localhost:57529/devtool1637439990171	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile7Hzzxi\\search.json.mozlz4", (void 1637440000541	Marionette	INFO	Stopped listening on port 57629
+[Parent 39444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+NFO	Listening on 127.0.0.1:57713
+1637439993610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57715" "-no-remote1637440001561	Marionette	INFO	Stopped listening on port 57656
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "-headless" "--remote-debugging-port" "57724" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileYaHNpA"
+*** You are running in headless mode.
+1637439995862	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileYaHNpA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57724/devtools/browser/5fe88d8f-15a2-4d56-acfe-cfa2f785274b
+1637439996779	Marionette	INFO	Listening on port 57772
+16371637440005304	Marionette	INFO	Stopped listening on port 57727
+ed for this session
+1637439997256	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"116.101.90.208:4004","sslProxy":"116.101.90.208:4004"}
+1637440007324	Marionette	INFO	Stopped listening on port 57772
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+command: "C:\\P1637440001840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57824" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilefkyakf"
+*** You are running in headless mode.
+1637440002150	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilefkyakf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57824/devtools/browser/8a61f417-2b0a-49ed-a296-55934e6fbf05
+1637440003299	Marionette	INFO	Listening on port 57888
+1637440003470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637440003472	RemoteAgent	IN1637440011453	Marionette	INFO	Stopped listening on port 57821637440012540	Marionette	INFO	Stopped listening on port 578471637440013513	Marionette	INFO	Stopped listening on port 57888
+ to send/recv, messages will be lost
+
+1637630636111	geckodriver	INFO	Listening on 127.0.0.1:50472
+1637630638175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50501" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileivCGno"
+*** You are running in headless mode.
+1637630639222	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileivCGno\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50501/devtools/browser/3fc03b83-9dc6-4cfb-a80a-d64f1aa2c8a8
+1637630641207	Marionette	INFO	Listening on port 50570
+1637630641496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is null
+1637630644619	Marionette	INFO	Stopped listening on port 50570
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Brendan\AppData\Local\Temp\rust_mozprofileivCGno\protections.sqlite
+1637630712635	geckodriver	INFO	Listening on 127.0.0.1:50640
+1637630714826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50642" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileAuREGl"
+*** You are running in headless mode.
+1637630716203	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileuQEGrf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50662/devtools/browser/1b758141-60a2-49a2-b5a8-6d990f2408e2
+1637630721388	Marionette	INFO	Listening on port 51551
+1637630721547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637630721551	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"103.123.108.225:8080","sslProxy":"103.123.108.22cons1637631637630731637	Marionette	INFO	Stopped listening on port 51551
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+Marionette	INFO	Stopped listening on port 51294
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+#!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Ch
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to sen1637630717534	Marionette	INFO	Stopped listening on port 51215
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+annel::Msg_DeletingChannel) Channel closing: too la1637630720072	Marionette	INFO	Stopped listening on port 51284
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+el] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+te to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/rconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileM0eVXZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51237/devtools/browser/5671ffd3-57dc-4c1c-90d3-241422411f9d
+1637630711095	Marionette	INFO	Listening on port 51305
+1637630711593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637630711597	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"159.192.104.53:8080","sslProxy":"159.192.104.53:8080"}
+1637630721672	Marionette	INFO	Stopped listening on port 51305
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile90oNxx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51429/devtools/browser/0b6a9357-3eef-4f2f-907e-e08eb8f44df7
+1637630723761	Marionette	INFO	Listening on port 51503
+1637630723809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637630723813	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"122.50.5.174:8090","sslProxy":"122.50.5.174:8090"}
+1637630733892	Marionette	INFO	Stopped listening on port 51503
+7630728569	Marionette	INFO	Stopped listening on port 511637631637630731676	Marionette	INFO	Stopped listening on port 51527
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingC
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+el] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChanJavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+#!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv1637630738104	Marionette	INFO	Stopped listening on port 52Java1637630738925	Marionette	INFO	Stopped listening on port 52046
+[Parent 20884, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ closing: too late to send/recv, messages will be lost
+
+08,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e to send/recv, messages will be lost
+
+1637631355519	geckodriver	INFO	Listening on 127.0.0.1:52316
+1637631357670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52344" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileXZvQ4L"
+1637631359696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileWZwJ4Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52371/devtools/browser/1bd98bed-abeb-43ab-b461-4d10c56bc70f
+1637631365248	Marionette	INFO	Listening on port 53395
+1637631365781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeErro16161637631375840	Marionette	INFO	Stopped listening on port 53395
+90
+ [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637631385894	geckodriver	INFO	Listening on 127.0.0.1:54011
+1637631388033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54017" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilevaqwrP"
+1637631388694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileKZbzEB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54010/devtools/browser/9bf8bffc-486d-4206-9b17-65b4882ecd9b
+1637631393408	Marionette	INFO	Listening on port 54062
+1637631393780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637631393783	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"103.197.60.170:3128","sslProxy":"103.197.60.170:311637631637631403859	Marionette	INFO	Stopped listening on port 54062
+[Parent 24336, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessagWARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=19a24621000","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3510,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:983","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1695"]}] Barrier: profile-before-change
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ings initialised: {"proxyType":"manual","httpProxy":"83.171.106.94:3128","sslProxy":"83.171.106.94:3128"}
+1637631413007	Marionette	INFO	Stopped listening on port 54461
+[Parent 28272, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mand: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("CouldDevTools listening on ws://localhost:54518/devtools/browser/DevTools listening on ws://localhost:54524/devtools/browser/7841eeb8-2e6c-43f5-a93f-46276147cca9
+1637631411476	Marionette	INFO	Listening on port 54570
+1637631411882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637631411885	RemoteAgent	1637631420426	Marionette	INFO	Stopped listening on port 541637631637631421218	Marionette	INFO	Stopped listening on port 51637631421954	Marionette	INFO	Stopped listening on port 54570
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Brendan\AppData\Local\Temp\rust_mozprofileesANln\protections.sqlite
+	INFO	Stopped listening on port 54582
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! 1637631428767	Marionette	INFO	Stopped listening on port 54866
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "--remote-debugging-port" "54931" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilen90kBG"
+1637631422984	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofilen90kBG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54931/devtools/browser/895bb246-c117-4ad8-959f-ad0a6374c593
+1637631424897	Marionette	INFO	Listening on port 54966
+1637631424938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637631424942	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"41.65.236.58:1976","sslProxy":"41.65.236.58:1976"}
+1637631435006	Marionette	INFO	Stopped listening on port 54966
+nnel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637631421377	geckodriver	INFO	Listening on 127.0.0.1:54937
+1637631423514	mozrunner::runner	INFO	Running command: "C:\\P1637631424402	mozrunner::runner	INFO	Running command: "C:\\P1637631424556	mozrunner::runner	INFO	Running command: "C:\\P1637631424698	mozrunner::runner	INFO	Running command: "C:\\P1637631424843	mozrunner::runner	INFO	Running command:console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofile7LkLsr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54953/devtools/browser/DevTools listening on ws://localhost:54961/devtools/browser/f0c717b4-99c4-4d72-8476-d0698f7bc1637631432720	RemoteAgent	WARN	TLS certificate errors will b1637631432845	RemoteAgent	WARN	TLS certificate errors wi161637631436339	Marionette	INFO	Stopped listening on port 54988
+###!!! [Parent][RunMessage] Error: Channel closing: t161637631442798	Marionette	INFO	Stopped listening on port 551637631442900	Marionette	INFO	Stopped listening on port 55034
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/etc.clientlibs/minecraft/clientlibs/components.580db5495899841e172ecdc2143b63e9.js, line 1: TypeError: location.pathname.match(...) is null
+1637631442808	Marionette	INFO	Stopped listening on port 55044
+emote-debugging-port" "55338" "-no-remote" "-profile" "C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozproficonsole.wa1637631438237	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileXQpUPM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws:/1637631446838	Marionette	INFO	Stopped listening on port 55244
+6953335
+1637631439794	Marionette	INFO	Listening on port 55388
+1637631440086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637631440090	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","ht1637631448967	Marionette	INFO	Stopped listening on port 55360
+[Parent 14628, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ning on ws://localhost:55369/devtools/browser/DevTools listening on ws://localhost:55372/devtools/browser/e27fcab6-a16d-499b-9d3a-0f74da8b8ee4
+1637631441661	Marionette	INFO	Listening on port 55439
+1637631441993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637631441996	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","ht1637631451464	Marionette	INFO	Stopped listening on port 554301637631452081	Marionette	INFO	Stopped listening on port 55439
+nature failed  TypeError: NetworkError: Network request failed
+[Parent 23508, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+rendan\\AppData\\Local\\Temp\\rust_mozprofileVpI84C"
+1637631446080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brendan\\AppData\\Local\\Temp\\rust_mozprofileVpI84C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55548/devtools/browser/c7453c84-f193-45a4-982c-518df15b1258
+1637631447870	Marionette	INFO	Listening on port 55586
+1637631447927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637631447930	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","http1637631456113	Marionette	INFO	Stopped listening on port 55551
+1637631458030	Marionette	INFO	Stopped listening on port 55586
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
